@@ -1,3 +1,7 @@
+
+
+https://img.shields.io/static/v1?label=Knotters&message=Project&color=1657ce&link=https://knotters.org&style=for-the-badge
+
 <p align="center"><a href="https://github.com/Tellybots/Uploader-Bot"><img src="https://telegra.ph/file/7a98ead33e7b99fd82cc7.jpg"></a></p> 
 
 <h1 align="center"><b>Logo-Maker-Bot</b></h1>
